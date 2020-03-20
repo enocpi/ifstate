@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\dbridges2\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\dbridges2\\.nuget\\packages"
+    ]
+  }
+}
